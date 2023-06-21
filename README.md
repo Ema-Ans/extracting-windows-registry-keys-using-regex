@@ -1,5 +1,5 @@
 # extracting-windows-registry-keys-using-regex
-
+for windows registry keys: https://kb.uconn.edu/space/IKB/10737647782/Understanding+the+Registry+on+Windows
 takes a text blob and returns a list of valid windows registry keys in that text i.e., looking at their case, spacing etc
 
 
